@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"marin-",
+				"margin-right\tproperty"
+			],
+			[
+				"user_",
+				"user_details"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"ta",
+				"tableadd"
+			],
+			[
+				"table",
+				"tableadd"
+			],
+			[
+				"tab",
+				"tableregistry"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"p",
+				"p"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 206.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/cakephp-3-9-8/src/Template/Users/login.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Users/permission.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Controller/UsersController.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Permissions/addpermission.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Model/Entity/Permission.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Entity/User.php",
+		"/var/www/html/cakephp-3-9-8/src/Controller/PermissionsController.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Permissions/updatepermission.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Controller/AppController.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Permissions",
+		"/var/www/html/cakephp-3-9-8/src/Template/Users/add.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Users/readdata.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Users/search.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Users/rolespermission.ctp",
+		"/var/www/html/filuploadcakephp.php",
+		"/var/www/html/cakephp-3-9-8/config/app.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Users/front.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Pages/home.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Layout/Email/html/user.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Model/Table/PermissionsTable.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Alls/checkboxcode.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Mailer/UserMailer.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Email/html/mailjet_email_template.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Layout/Email/html/User.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Users/permisssion.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Users/edit.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Users/getdata.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Controller/UserdetailsController.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Table/UsersTable.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Userdetails/getdata.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Userdetails/login.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Userdetails/add.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Model/Entity/User_detail.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Table/User_detailsTable.php",
+		"/var/www/html/cakephp-3-9-8/src/Controller/User_detailsController.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Entity/user_detail.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Entity/User_details.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Table/TestsTable.php",
+		"/var/www/html/cakephp-3-9-8/src/Controller/TestsController.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Userdetails/edit.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Userdetails/readdata.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Userdetails/readonly.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Model/Entity/user_details.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Table/user_detailsTable.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Entity/Test.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Tests/alldata.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Tests/add.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Tests/edit.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Controller/project/UsersController.php",
+		"/var/www/html/cakephp-3-9-8/src/Controller/LoginsController.php",
+		"/home/admi/Downloads/cakeproject1/bookmarker-tutorial-master/src/Template/Bookmarks/view.ctp",
+		"/home/admi/Downloads/cakeproject1/bookmarker-tutorial-master/src/Model/Table/BookmarksTable.php",
+		"/home/admi/Downloads/cakeproject1/bookmarker-tutorial-master/src/Controller/BookmarksController.php",
+		"/var/www/html/cakephp-3-9-8/src/Controller/AllsController.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Tests/fetchrecord.ctp",
+		"/var/www/html/cakephp-3-9-8/webroot/css/style.css",
+		"/var/www/html/cakephp-3-9-8/src/Controller/PagesController.php",
+		"/var/www/html/cakephp-3-9-8/src/Controller/ChecksController.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Table/CoursesTable.php",
+		"/var/www/html/cakephp-3-9-8/src/Application.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Alls/fetchrecord.ctp",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Model/Table/CategoriesTable.php",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Model/Table/CommentsTable.php",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Controller/PostsController.php",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Controller/AdminController.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Alls/edit.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Tests/index.ctp",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Template/Admin/index.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Model/Table/Student_detailsTable.php",
+		"/home/admi/Downloads/cakeproject1/cakephp-realworld-example-app-master/src/Model/Table/CommentsTable.php",
+		"/home/admi/Downloads/cakeproject1/cakephp-realworld-example-app-master/src/Controller/AppController.php",
+		"/home/admi/Downloads/cakeproject1/cakephp-realworld-example-app-master/src/Controller/PagesController.php",
+		"/var/www/example.com/public_html/index.html",
+		"/home/admi/Downloads/cakeproject1/BlogMVC-CakePHP3-master/src/Controller/AdminController.php",
+		"/var/www/test.com/public_html/index.html",
+		"/etc/apache2/sites-available/adressappend.conf",
+		"/var/www/html/adressappend.php",
+		"/home/admi/Desktop/test/helloworld.php",
+		"/home/admi/Desktop/clone/firstproject/check.html",
+		"/home/admi/Desktop/test/welcome.php",
+		"/home/admi/Desktop/test/index.php",
+		"/etc/apache2/sites-available/000-default.conf",
+		"/home/admi/Desktop/test/check.html",
+		"/var/www/html/cakephp-3-9-8/src/Controller/Component/TestsComponent.php",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Template/Admin/edit.ctp",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Model/Table/PostsTable.php",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Controller/UsersController.php",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Model/Table/UsersTable.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Tests/insert.ctp",
+		"/var/www/html/cakephp-3-9-8/config/requirements.php",
+		"/home/admi/Downloads/cakephpproject2/cakephp-master/src/ORM/Association/BelongsTo.php",
+		"/home/admi/Downloads/cakephpproject2/cakephp-master/src/ORM/Association/HasOne.php",
+		"/home/admi/Downloads/cakephpproject2/cakephp-master/src/Controller/ControllerFactory.php",
+		"/var/www/html/cakephp-3-9-8/src/Console/Installer.php",
+		"/var/www/html/cakephp-3-9-8/webroot/index.php",
+		"/var/www/html/cakephp-3-9-8/config/bootstrap.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Table/JoinTable.php",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Controller/AppController.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Layout/allslayout.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Element/header.ctp",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Model/Entity/Category.php",
+		"/var/www/html/cakephp-3-9-8/src/Model/Entity/Category.php",
+		"/home/admi/Downloads/cakepoject/BlogMVC-CakePHP3-master/src/Template/Admin/add.ctp",
+		"/home/admi/Downloads/cakepoject/cakephp3-advanced-examples-master/src/Model/Table/EmployeesTable.php",
+		"/home/admi/Downloads/cakepoject/cakephp3-advanced-examples-master/src/Model/Table/ManagersTable.php",
+		"/home/admi/Downloads/cakepoject/cakephp3-advanced-examples-master/src/Model/Table/DepartmentsTable.php",
+		"/home/admi/Downloads/cakepoject/cakephp3-advanced-examples-master/src/Model/Table/SalariesTable.php",
+		"/home/admi/Downloads/cakepoject/cakephp3-advanced-examples-master/src/Model/Table/CountriesTable.php",
+		"/home/admi/Downloads/cakepoject/cakephp3-advanced-examples-master/src/Controller/EmployeesController.php",
+		"/home/admi/Downloads/cakepoject/cakephp3-advanced-examples-master/src/Template/Employees/add.ctp",
+		"/home/admi/Downloads/cakepoject/cakephp3-advanced-examples-master/src/Model/Entity/Employee.php",
+		"/home/admi/Downloads/cakepoject/cakephp3-advanced-examples-master/src/Model/Table/CitiesTable.php",
+		"/home/admi/Downloads/cakepoject/cakephp3-advanced-examples-master/src/Model/Table/TitlesTable.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Checks/add.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Checks/index.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Alls/check.ctp",
+		"/var/www/html/cakephp-3-9-8/config/routes.php",
+		"/var/www/html/cakephp-3-9-8/src/Controller/add.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Controller/user.php",
+		"/var/www/html/cakephp-3-9-8/vendor/cakephp/cakephp/src/Controller/Component/AuthComponent.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Layout/default.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Alls/login.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Model/Table/StudentsTable.php",
+		"/var/www/html/cakephp-3-9-8/src/Template/Alls/showdata.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Alls/show.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Template/Element/footer.ctp",
+		"/var/www/html/cakephp-3-9-8/src/Model/Table/UserTable.php",
+		"/home/admi/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TestsController.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
